@@ -1,0 +1,2 @@
+# php-jest
+A PHP Test Suite inspired by Javascript's Jest (https://facebook.github.io/jest/), jest-php is a tool for writing unit tests with amongst other significant philosophies, mocks everything by default. This also means that you may begin learning nearly any unit incrementally by using this against a complex piece of code you're learning from scratch. Only focus on things relevant for the unit. jest-php handles where you should branch out and what unused cruft you shouldn't even read.
